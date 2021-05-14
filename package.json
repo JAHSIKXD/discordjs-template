@@ -1,0 +1,28 @@
+{
+  "name": "djs-open-src-bot",
+  "version": "1.0.0",
+  "description": "Przykładowy publiczny bot discord.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jahsik",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAHSIKXD/discord-bot-template.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/JAHSIKXD/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/JAHSIKXD/discord-bot-template#readme"
+}
