@@ -3,6 +3,7 @@
   <a href="//github.com/JAHSIKXD/discordjs-template/commits/main"><img src="https://img.shields.io/github/last-commit/JAHSIKXD/discordjs-template"></a>
   <a href="//github.com/JAHSIKXD/discordjs-template"><img src="https://img.shields.io/github/languages/code-size/JAHSIKXD/discordjs-template"></a>
   <a href="//github.com/JAHSIKXD/discordjs-template/issues"><img src="https://img.shields.io/github/issues-raw/JAHSIKXD/discordjs-template"></a></a>
+  [![](https://www.codefactor.io/repository/github/JAHSIKXD/discordjs-template/badge)](https://www.codefactor.io/repository/github/JAHSIKXD/discordjs-template)
 </p>
 
 ### Przykładowy bot zrobiony przy użyciu [discord.js](https://discord.js.org) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/JAHSIKXD)
