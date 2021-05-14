@@ -6,7 +6,6 @@
 </p>
 
 ### Przykładowy bot zrobiony przy użyciu [discord.js](https://discord.js.org) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/JAHSIKXD)
-[![](https://www.codefactor.io/repository/github/JAHSIKXD/discordjs-template/badge)](https://www.codefactor.io/repository/github/JAHSIKXD/discordjs-template)
 - 1-szy krok to zaktualizowanie TOKENU na token swojej [aplikacji](https://discord.com/developers/applications)
 - 2-gi krok, to zaktualizowanie **swojego** id w [configu](https://github.com/JAHSIKXD/discordjs-template/blob/main/src/config.js), z **TWOJE ID** zmień na swoje id pobrane z aplikacji discord, nie wiesz jak pobrać swoje id? zajrzyj [tutaj](https://support.discord.com/hc/pl/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 ### Instalacja modułów
