@@ -1,7 +1,6 @@
 <h1 align="center">Twój pierwszy przykładowy Bot Discord! 🤖</h1>
 <p align="center">
   <a href="//github.com/JAHSIKXD/discordjs-template/commits/main"><img src="https://img.shields.io/github/last-commit/JAHSIKXD/discordjs-template"></a>
-  <a href="//github.com/JAHSIKXD/discordjs-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/JAHSIKXD/discordjs-template"></a>
   <a href="//github.com/JAHSIKXD/discordjs-template"><img src="https://img.shields.io/github/languages/code-size/JAHSIKXD/discordjs-template"></a>
   <a href="//github.com/JAHSIKXD/discordjs-template/issues"><img src="https://img.shields.io/github/issues-raw/JAHSIKXD/discordjs-template"></a></a>
 </p>
