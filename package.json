@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JAHSIKXD/discord-bot-template.git"
+    "url": "git+https://github.com/JAHSIKXD/discordjs-template.git"
   },
   "keywords": [
     "discord",
     "bot"
   ],
   "bugs": {
-    "url": "https://github.com/JAHSIKXD/discord-bot-template/issues"
+    "url": "https://github.com/JAHSIKXD/discordjs-template/issues"
   },
-  "homepage": "https://github.com/JAHSIKXD/discord-bot-template#readme"
+  "homepage": "https://github.com/JAHSIKXD/discordjs-template#readme"
 }
